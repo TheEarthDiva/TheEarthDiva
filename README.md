@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheEarthDiva
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... JavaScript and AI API integration
+- 💞️ I’m looking to collaborate on ... I would be open to collaborating with someone who know MySQL to add login functionality to my projects
 - 📫 How to reach me ...
 
 <!---
